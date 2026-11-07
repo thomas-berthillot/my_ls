@@ -1,10 +1,3 @@
-/*
-** EPITECH PROJECT, 2026
-** Epitech my_ls
-** File description:
-** test.c
-*/
-
 #include <stdio.h>
 #include <dirent.h>
 #include "lib.h"
