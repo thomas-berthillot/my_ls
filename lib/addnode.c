@@ -1,10 +1,3 @@
-/*
-** EPITECH PROJECT, 2026
-** Epitech my_ls
-** File description:
-** addnode.c
-*/
-
 #include <sys/stat.h>
 #include <stdio.h>
 #include <dirent.h>
