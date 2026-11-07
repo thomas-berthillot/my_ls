@@ -1,10 +1,3 @@
-/*
-** EPITECH PROJECT, 2026
-** Epitech my_ls
-** File description:
-** printtime.c
-*/
-
 #include "lib.h"
 #include <stdlib.h>
 #include <time.h>
