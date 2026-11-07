@@ -1,10 +1,3 @@
-/*
-** EPITECH PROJECT, 2026
-** Epitech my_ls
-** File description:
-** Libmy
-*/
-
 #ifndef MY_LIB
     #define MY_LIB
 
