@@ -1,10 +1,3 @@
-/*
-** EPITECH PROJECT, 2026
-** Epitech my_ls
-** File description:
-** printpermissions.c
-*/
-
 #include <sys/stat.h>
 #include "lib.h"
 
