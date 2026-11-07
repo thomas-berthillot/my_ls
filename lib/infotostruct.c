@@ -1,10 +1,3 @@
-/*
-** EPITECH PROJECT, 2026
-** Epitech my_ls
-** File description:
-** infotostruct.c
-*/
-
 #include <sys/stat.h>
 #include "lib.h"
 #include <sys/sysmacros.h>
