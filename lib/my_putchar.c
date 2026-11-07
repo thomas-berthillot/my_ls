@@ -1,10 +1,3 @@
-/*
-** EPITECH PROJECT, 2026
-** Epitech my_ls
-** File description:
-** my_putchar.c
-*/
-
 #include "lib.h"
 #include <unistd.h>
 
